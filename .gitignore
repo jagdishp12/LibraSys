@@ -12,15 +12,12 @@
 Thumbs.db
 
 # Maven / Spring Boot Backend
-backend/target/
-backend/*.jar
-backend/*.war
-backend/*.zip
-backend/*.tar.gz
-backend/dependency-reduced-pom.xml
-backend/.mvn/wrapper/maven-wrapper.jar
-backend/mvnw
-backend/mvnw.cmd
+target/
+*.jar
+*.war
+*.zip
+*.tar.gz
+dependency-reduced-pom.xml
 
 # Node / React Frontend
 frontend/node_modules/
