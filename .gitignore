@@ -18,9 +18,6 @@ target/
 *.zip
 *.tar.gz
 dependency-reduced-pom.xml
-.mvn/wrapper/maven-wrapper.jar
-mvnw
-mvnw.cmd
 
 # Node / React Frontend
 frontend/node_modules/
